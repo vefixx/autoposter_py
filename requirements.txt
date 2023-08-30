@@ -1,0 +1,6 @@
+requests
+colorama
+fake_useragent
+httpx
+aiohttp
+aioconsole
